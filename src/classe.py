@@ -18,4 +18,4 @@ class Product:
         self.stock = self.stock - stock_to_reduce
 
 
-
+# TESTE
